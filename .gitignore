@@ -1,0 +1,16 @@
+.env
+vector_store/
+eval/eval_set.json
+__pycache__/
+*.pyc
+.venv/
+requirements-dev.txt
+
+# Streamlit
+.streamlit/
+
+# Superpowers brainstorm artifacts
+.superpowers/
+
+# Generated PDFs
+*.pdf
